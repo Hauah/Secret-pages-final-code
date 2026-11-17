@@ -60,6 +60,7 @@ export const PHOTO_SPREADS: SpreadConfig[] = [
       stickers: [
         { src: "/stickers/cat1.png", top: 0.0, left: 0.5, w: 112, h: 118, rot: -6 },
         { src: "/stickers/fits.png", top: 2.4, left: 30.0, w: 56, h: 51, rot: -8, z: 40 },
+        { src: "/stickers/brn22.png", top: 1.9, left: 51.2, w: 84, h: 87, rot: 6 },
         { src: "/stickers/boqey.png", top: 20.0, left: 72.0, w: 58, h: 72, rot: 7 },
         { src: "/stickers/momo.png", top: 39.2, left: 70.5, w: 66, h: 66, rot: 6 },
         { src: "/stickers/butter.png", top: 58.4, left: 72.5, w: 54, h: 47, rot: 6 },
@@ -88,7 +89,7 @@ export const PHOTO_SPREADS: SpreadConfig[] = [
         { src: "/stickers/brn21.png", top: 46.6, left: 87.5, w: 40, h: 34, rot: 5 },
         { src: "/stickers/brn11.png", top: 60.3, left: 86.5, w: 42, h: 39, rot: -8 },
         { src: "/stickers/recorder.png", top: 86.0, left: 14.0, w: 84, h: 65, rot: -4 },
-        { src: "/stickers/gussa.png", top: 79.6, left: 65.5, w: 70, h: 100, rot: 5 },
+        { src: "/stickers/gussa.png", top: 70.0, left: 76.0, w: 70, h: 100, rot: 5 },
         { src: "/stickers/start.png", top: 94.8, left: 40.0, w: 80, h: 26, rot: -3 },
       ],
     },
